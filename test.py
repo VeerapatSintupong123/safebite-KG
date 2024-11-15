@@ -1,9 +1,9 @@
 from transector import Transector
 
 if __name__ == "__main__":
-    transector = Transector(uri="neo4j+s://8e6c02d7.databases.neo4j.io", 
+    transector = Transector(uri="", 
                             user="neo4j", 
-                            password="RPce3hyrCb14rU1_Tt8jHHUfFL4gibExGBVHuQD3dqg")
+                            password="")
 
     # Get all ingredients
     ingredients = transector.get_all_ingredients()
