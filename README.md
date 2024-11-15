@@ -1,4 +1,7 @@
 # SafeBite Knowledge Graph 
+
+![Alt text](save1.png)
+
 This project provides a way to interact with a Neo4j database to manage relationships between foods and ingredients. It uses the Transector class, which contains methods for querying food and ingredient data in the Neo4j graph database. The primary operations include retrieving all ingredients, foods, ingredients for a specific food, foods containing a particular ingredient, and finding synonyms for ingredients.
 
 Features
