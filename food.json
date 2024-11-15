@@ -1,0 +1,1269 @@
+{
+    "apple_pie": {
+      "ingredients": [
+        "Apples (such as Granny Smith or Honeycrisp)",
+        "Sugar",
+        "Brown sugar",
+        "Cinnamon",
+        "Nutmeg",
+        "Lemon juice",
+        "Butter",
+        "Flour (for pie crust)",
+        "Salt",
+        "Ice water (for pie crust)",
+        "Egg wash (optional, for brushing on the crust)"
+      ]
+    },
+    "baby_back_ribs": {
+      "ingredients": [
+        "Pork baby back ribs",
+        "BBQ sauce (store-bought or homemade)",
+        "Brown sugar",
+        "Paprika",
+        "Garlic powder",
+        "Onion powder",
+        "Salt and pepper",
+        "Cayenne pepper (optional, for a bit of spice)",
+        "Apple cider vinegar (optional, for extra tenderness)"
+      ]
+    },
+    "baklava": {
+      "ingredients": [
+        "Phyllo dough",
+        "Walnuts or pistachios (finely chopped)",
+        "Sugar",
+        "Butter (melted, for brushing the phyllo)",
+        "Cinnamon",
+        "Honey",
+        "Water",
+        "Lemon juice (for syrup)"
+      ]
+    },
+    "beef_carpaccio": {
+      "ingredients": [
+        "Raw beef tenderloin (thinly sliced)",
+        "Olive oil",
+        "Lemon juice",
+        "Arugula (optional, as a garnish)",
+        "Parmesan cheese (shaved)",
+        "Capers (optional)",
+        "Salt and pepper"
+      ]
+    },
+    "beef_tartare": {
+      "ingredients": [
+        "Raw beef tenderloin (finely diced)",
+        "Egg yolk (often placed on top)",
+        "Capers",
+        "Dijon mustard",
+        "Worcestershire sauce",
+        "Shallots (finely chopped)",
+        "Parsley (chopped)",
+        "Salt and pepper",
+        "Hot sauce (optional, to taste)"
+      ]
+    },
+    "beet_salad": {
+        "ingredients": [
+          "Beets (cooked or roasted)",
+          "Goat cheese or feta",
+          "Arugula or mixed greens",
+          "Walnuts",
+          "Balsamic vinegar",
+          "Olive oil",
+          "Salt and pepper"
+        ]
+      },
+      "beignets": {
+        "ingredients": [
+          "Flour",
+          "Yeast",
+          "Sugar",
+          "Butter",
+          "Milk",
+          "Eggs",
+          "Powdered sugar (for dusting)",
+          "Oil (for frying)"
+        ]
+      },
+      "bibimbap": {
+        "ingredients": [
+          "Rice",
+          "Vegetables (carrot, spinach, bean sprouts, zucchini)",
+          "Gochujang (Korean chili paste)",
+          "Beef or tofu (optional)",
+          "Egg",
+          "Soy sauce",
+          "Sesame oil",
+          "Salt and pepper"
+        ]
+      },
+      "bread_pudding": {
+        "ingredients": [
+          "Stale bread (cubed)",
+          "Eggs",
+          "Milk or cream",
+          "Sugar",
+          "Vanilla extract",
+          "Cinnamon",
+          "Butter (for greasing the baking dish)",
+          "Raisins or nuts (optional)"
+        ]
+      },
+      "breakfast_burrito": {
+        "ingredients": [
+          "Tortilla",
+          "Eggs",
+          "Cheese",
+          "Potatoes (diced and cooked)",
+          "Bacon or sausage",
+          "Bell peppers (optional)",
+          "Onions (optional)",
+          "Salsa (for serving)"
+        ]
+      },
+      "bruschetta": {
+    "ingredients": [
+      "Bread (sliced and toasted)",
+      "Tomatoes (diced)",
+      "Garlic (minced)",
+      "Basil (chopped)",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "caesar_salad": {
+    "ingredients": [
+      "Romaine lettuce",
+      "Caesar dressing (anchovies, garlic, lemon juice, olive oil, Worcestershire sauce, egg yolk)",
+      "Parmesan cheese (grated)",
+      "Croutons",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "cannoli": {
+    "ingredients": [
+      "Cannoli shells",
+      "Ricotta cheese",
+      "Powdered sugar",
+      "Vanilla extract",
+      "Chocolate chips (optional)",
+      "Cinnamon",
+      "Candied fruit (optional)"
+    ]
+  },
+  "caprese_salad": {
+    "ingredients": [
+      "Tomatoes (sliced)",
+      "Fresh mozzarella (sliced)",
+      "Basil leaves",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Balsamic vinegar (optional)"
+    ]
+  },
+  "carrot_cake": {
+    "ingredients": [
+      "Carrots (grated)",
+      "Flour",
+      "Sugar",
+      "Eggs",
+      "Vegetable oil",
+      "Baking powder",
+      "Baking soda",
+      "Cinnamon",
+      "Nutmeg",
+      "Cream cheese (for frosting)",
+      "Powdered sugar (for frosting)",
+      "Vanilla extract (for frosting)"
+    ]
+  },
+  "ceviche": {
+    "ingredients": [
+      "Fresh fish or shrimp (cubed)",
+      "Lime or lemon juice",
+      "Red onion (thinly sliced)",
+      "Cilantro (chopped)",
+      "Chili peppers (optional, finely chopped)",
+      "Salt",
+      "Tomato (optional, diced)",
+      "Avocado (optional, diced)"
+    ]
+  },
+  "cheesecake": {
+    "ingredients": [
+      "Cream cheese",
+      "Sugar",
+      "Eggs",
+      "Graham cracker crust (crushed graham crackers, butter)",
+      "Vanilla extract",
+      "Sour cream (optional, for topping)",
+      "Lemon zest (optional)"
+    ]
+  },
+  "cheese_plate": {
+    "ingredients": [
+      "Assorted cheeses (brie, cheddar, gouda, blue cheese, etc.)",
+      "Crackers or bread",
+      "Grapes or berries",
+      "Nuts",
+      "Honey or jam"
+    ]
+  },
+  "chicken_curry": {
+    "ingredients": [
+      "Chicken (cubed)",
+      "Curry powder or curry paste",
+      "Coconut milk or heavy cream",
+      "Garlic (minced)",
+      "Onion (chopped)",
+      "Ginger (grated)",
+      "Vegetables (optional, like potatoes, carrots)",
+      "Salt",
+      "Oil (for cooking)",
+      "Cilantro (for garnish)"
+    ]
+  },
+  "chicken_quesadilla": {
+    "ingredients": [
+      "Tortilla",
+      "Cooked chicken (shredded or diced)",
+      "Cheese (shredded)",
+      "Bell peppers (optional, diced)",
+      "Onion (optional, diced)",
+      "Salsa (for serving)",
+      "Sour cream (for serving)",
+      "Olive oil or butter (for cooking)"
+    ]
+  },
+  "chicken_wings": {
+    "ingredients": [
+      "Chicken wings",
+      "Buffalo sauce or BBQ sauce",
+      "Butter",
+      "Garlic powder",
+      "Paprika",
+      "Cayenne pepper (optional)",
+      "Salt",
+      "Pepper",
+      "Celery (optional, for serving)",
+      "Blue cheese or ranch dressing (for dipping)"
+    ]
+  },
+  "chocolate_cake": {
+    "ingredients": [
+      "Flour",
+      "Cocoa powder",
+      "Sugar",
+      "Eggs",
+      "Milk",
+      "Vegetable oil",
+      "Baking powder",
+      "Baking soda",
+      "Vanilla extract",
+      "Butter (for frosting)",
+      "Powdered sugar (for frosting)",
+      "Heavy cream (for frosting)"
+    ]
+  },
+  "chocolate_mousse": {
+    "ingredients": [
+      "Dark chocolate",
+      "Eggs (separated)",
+      "Sugar",
+      "Heavy cream",
+      "Vanilla extract",
+      "Salt"
+    ]
+  },
+  "churros": {
+    "ingredients": [
+      "Flour",
+      "Water",
+      "Sugar",
+      "Butter",
+      "Eggs",
+      "Vanilla extract",
+      "Salt",
+      "Cinnamon (for coating)",
+      "Sugar (for coating)",
+      "Oil (for frying)"
+    ]
+  },
+  "clam_chowder": {
+    "ingredients": [
+      "Clams (fresh or canned)",
+      "Bacon",
+      "Onion (chopped)",
+      "Celery (chopped)",
+      "Garlic (minced)",
+      "Potatoes (peeled and diced)",
+      "Heavy cream",
+      "Chicken or vegetable broth",
+      "Butter",
+      "Thyme",
+      "Salt and pepper"
+    ]
+  },
+  "club_sandwich": {
+    "ingredients": [
+      "Bread (toasted)",
+      "Turkey or chicken (sliced)",
+      "Bacon (crispy)",
+      "Lettuce",
+      "Tomato (sliced)",
+      "Mayonnaise",
+      "Cheese (optional)"
+    ]
+  },
+  "crab_cakes": {
+    "ingredients": [
+      "Crab meat (fresh or canned)",
+      "Breadcrumbs",
+      "Egg",
+      "Mayonnaise",
+      "Mustard",
+      "Worcestershire sauce",
+      "Old Bay seasoning (or other seafood seasoning)",
+      "Parsley (chopped)",
+      "Lemon juice",
+      "Salt and pepper",
+      "Oil (for frying)"
+    ]
+  },
+  "creme_brulee": {
+    "ingredients": [
+      "Heavy cream",
+      "Egg yolks",
+      "Sugar",
+      "Vanilla bean or vanilla extract",
+      "Salt",
+      "Sugar (for caramelizing on top)"
+    ]
+  },
+  "croque_madame": {
+    "ingredients": [
+      "Bread (such as white or brioche)",
+      "Ham",
+      "Gruyère cheese (or Swiss cheese)",
+      "Bechamel sauce (butter, flour, milk)",
+      "Egg (fried, for topping)",
+      "Butter (for toasting)"
+    ]
+  },
+  "cup_cakes": {
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Baking powder",
+      "Vanilla extract",
+      "Powdered sugar (for frosting)",
+      "Butter (for frosting)",
+      "Food coloring (optional, for frosting)"
+    ]
+  },
+  "deviled_eggs": {
+    "ingredients": [
+      "Hard-boiled eggs",
+      "Mayonnaise",
+      "Mustard",
+      "Vinegar",
+      "Paprika",
+      "Salt",
+      "Pepper",
+      "Relish or capers (optional)"
+    ]
+  },
+  "donuts": {
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Baking powder",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla extract",
+      "Salt",
+      "Oil (for frying)",
+      "Powdered sugar (for glazing)",
+      "Chocolate or glaze (optional)"
+    ]
+  },
+  "dumplings": {
+    "ingredients": [
+      "Dumpling wrappers",
+      "Ground pork, chicken, or shrimp",
+      "Cabbage (chopped)",
+      "Green onions (chopped)",
+      "Ginger (minced)",
+      "Garlic (minced)",
+      "Soy sauce",
+      "Sesame oil",
+      "Salt and pepper"
+    ]
+  },
+  "edamame": {
+    "ingredients": [
+      "Edamame (young soybeans, in pods)",
+      "Sea salt",
+      "Water"
+    ]
+  },
+  "eggs_benedict": {
+    "ingredients": [
+      "English muffins",
+      "Eggs",
+      "Canadian bacon or ham",
+      "Hollandaise sauce (egg yolks, butter, lemon juice, Dijon mustard)",
+      "Salt and pepper"
+    ]
+  },
+  "escargots": {
+    "ingredients": [
+      "Escargot (snails)",
+      "Garlic (minced)",
+      "Butter",
+      "Parsley (chopped)",
+      "Shallots (chopped)",
+      "White wine (optional)",
+      "Salt",
+      "Pepper",
+      "Bread (for serving)"
+    ]
+  },
+  "falafel": {
+    "ingredients": [
+      "Chickpeas (cooked or soaked)",
+      "Onions (chopped)",
+      "Garlic (minced)",
+      "Parsley (chopped)",
+      "Cilantro (chopped)",
+      "Cumin",
+      "Coriander",
+      "Flour",
+      "Baking powder",
+      "Salt",
+      "Pepper",
+      "Oil (for frying)"
+    ]
+  },
+  "filet_mignon": {
+    "ingredients": [
+      "Filet mignon steaks",
+      "Olive oil",
+      "Butter",
+      "Garlic (minced)",
+      "Rosemary or thyme",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "fish_and_chips": {
+    "ingredients": [
+      "White fish fillets (such as cod or haddock)",
+      "Flour",
+      "Baking powder",
+      "Cornstarch",
+      "Eggs",
+      "Beer or sparkling water",
+      "Potatoes (for fries)",
+      "Oil (for frying)",
+      "Salt",
+      "Tartar sauce (optional)"
+    ]
+  },
+  "foie_gras": {
+    "ingredients": [
+      "Foie gras (duck or goose liver)",
+      "Butter",
+      "Salt",
+      "Pepper",
+      "Cognac or brandy (optional)"
+    ]
+  },
+  "french_fries": {
+    "ingredients": [
+      "Potatoes",
+      "Oil (for frying)",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "french_onion_soup": {
+    "ingredients": [
+      "Onions (thinly sliced)",
+      "Butter",
+      "Beef broth",
+      "White wine (optional)",
+      "Garlic (minced)",
+      "Thyme",
+      "Bay leaf",
+      "Bread (sliced)",
+      "Gruyère cheese (shredded)",
+      "Salt and pepper"
+    ]
+  },
+  "french_toast": {
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Milk or cream",
+      "Sugar",
+      "Cinnamon",
+      "Vanilla extract",
+      "Butter (for frying)",
+      "Maple syrup (for serving)"
+    ]
+  },
+  "fried_calamari": {
+    "ingredients": [
+      "Calamari (squid, cleaned and sliced)",
+      "Flour",
+      "Cornstarch",
+      "Salt",
+      "Pepper",
+      "Garlic powder",
+      "Eggs",
+      "Oil (for frying)",
+      "Lemon (for serving)",
+      "Marinara sauce (optional, for dipping)"
+    ]
+  },
+  "fried_rice": {
+    "ingredients": [
+      "Cooked rice (preferably day-old)",
+      "Eggs",
+      "Carrots (diced)",
+      "Green peas",
+      "Green onions (chopped)",
+      "Soy sauce",
+      "Sesame oil",
+      "Garlic (minced)",
+      "Vegetable oil",
+      "Salt and pepper"
+    ]
+  },
+  "frozen_yogurt": {
+    "ingredients": [
+      "Greek yogurt or regular yogurt",
+      "Sugar",
+      "Vanilla extract",
+      "Fruit or toppings (optional)"
+    ]
+  },
+  "garlic_bread": {
+    "ingredients": [
+      "Bread (such as French baguette)",
+      "Butter",
+      "Garlic (minced)",
+      "Parsley (chopped)",
+      "Salt"
+    ]
+  },
+  "gnocchi": {
+    "ingredients": [
+      "Potatoes",
+      "Flour",
+      "Eggs",
+      "Salt",
+      "Nutmeg (optional)",
+      "Butter (for serving)",
+      "Parmesan cheese (for serving)"
+    ]
+  },
+  "greek_salad": {
+    "ingredients": [
+      "Cucumbers (diced)",
+      "Tomatoes (diced)",
+      "Red onions (sliced)",
+      "Feta cheese",
+      "Olives (usually Kalamata)",
+      "Olive oil",
+      "Oregano",
+      "Lemon juice",
+      "Salt and pepper"
+    ]
+  },
+  "grilled_cheese_sandwich": {
+    "ingredients": [
+      "Bread",
+      "Cheese (such as cheddar or American)",
+      "Butter"
+    ]
+  },
+  "grilled_salmon": {
+    "ingredients": [
+      "Salmon fillets",
+      "Olive oil",
+      "Lemon juice",
+      "Garlic (minced)",
+      "Dill or parsley",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "guacamole": {
+    "ingredients": [
+      "Avocados",
+      "Lime juice",
+      "Tomatoes (diced)",
+      "Onion (diced)",
+      "Cilantro (chopped)",
+      "Garlic (minced)",
+      "Jalapeño (optional, minced)",
+      "Salt"
+    ]
+  },
+  "gyoza": {
+    "ingredients": [
+      "Gyoza wrappers",
+      "Ground pork or chicken",
+      "Cabbage (finely chopped)",
+      "Green onions (chopped)",
+      "Garlic (minced)",
+      "Ginger (grated)",
+      "Soy sauce",
+      "Sesame oil",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "hamburger": {
+    "ingredients": [
+      "Ground beef",
+      "Buns",
+      "Lettuce",
+      "Tomatoes (sliced)",
+      "Onion (sliced)",
+      "Cheese (optional, such as cheddar)",
+      "Pickles",
+      "Ketchup",
+      "Mustard",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "hot_and_sour_soup": {
+    "ingredients": [
+      "Chicken or vegetable broth",
+      "Tofu",
+      "Bamboo shoots",
+      "Mushrooms (usually shiitake)",
+      "Vinegar",
+      "Soy sauce",
+      "Sugar",
+      "Chili paste",
+      "Garlic (minced)",
+      "Ginger (grated)",
+      "Egg (for scrambling)",
+      "Cornstarch (for thickening)",
+      "Green onions (chopped)",
+      "Salt"
+    ]
+  },
+  "hot_dog": {
+    "ingredients": [
+      "Hot dog sausages",
+      "Buns",
+      "Ketchup",
+      "Mustard",
+      "Onions (optional, diced)",
+      "Pickles (optional)"
+    ]
+  },
+  "huevos_rancheros": {
+    "ingredients": [
+      "Corn tortillas",
+      "Eggs",
+      "Tomato sauce or salsa",
+      "Onions (chopped)",
+      "Jalapeños (optional, chopped)",
+      "Cilantro (chopped)",
+      "Cheese (such as queso fresco)",
+      "Lime",
+      "Refried beans (optional)"
+    ]
+  },
+  "hummus": {
+    "ingredients": [
+      "Chickpeas",
+      "Tahini",
+      "Olive oil",
+      "Garlic (minced)",
+      "Lemon juice",
+      "Cumin",
+      "Salt",
+      "Paprika (optional, for garnish)"
+    ]
+  },
+  "ice_cream": {
+    "ingredients": [
+      "Heavy cream",
+      "Milk",
+      "Sugar",
+      "Egg yolks (for custard-style)",
+      "Vanilla extract",
+      "Salt"
+    ]
+  },
+  "lasagna": {
+    "ingredients": [
+      "Lasagna noodles",
+      "Ground beef or sausage",
+      "Tomato sauce",
+      "Ricotta cheese",
+      "Mozzarella cheese",
+      "Parmesan cheese",
+      "Eggs",
+      "Garlic (minced)",
+      "Onion (chopped)",
+      "Italian seasoning",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "lobster_bisque": {
+    "ingredients": [
+      "Lobster meat",
+      "Lobster shells",
+      "Butter",
+      "Onions (chopped)",
+      "Celery (chopped)",
+      "Carrots (chopped)",
+      "Garlic (minced)",
+      "Tomato paste",
+      "Flour",
+      "Chicken or seafood broth",
+      "Heavy cream",
+      "Brandy or cognac (optional)",
+      "Paprika",
+      "Bay leaves",
+      "Thyme",
+      "Salt and pepper"
+    ]
+  },
+  "lobster_roll_sandwich": {
+    "ingredients": [
+      "Lobster meat (steamed or boiled)",
+      "Hot dog buns or split-top rolls",
+      "Butter",
+      "Lemon juice",
+      "Mayonnaise",
+      "Celery (optional, chopped)",
+      "Chives (optional, chopped)",
+      "Salt and pepper"
+    ]
+  },
+  "macaroni_and_cheese": {
+    "ingredients": [
+      "Macaroni pasta",
+      "Cheddar cheese (shredded)",
+      "Milk",
+      "Butter",
+      "Flour",
+      "Salt",
+      "Pepper",
+      "Breadcrumbs (optional, for topping)",
+      "Mustard powder (optional)"
+    ]
+  },
+  "macarons": {
+    "ingredients": [
+      "Almond flour",
+      "Powdered sugar",
+      "Egg whites",
+      "Granulated sugar",
+      "Food coloring (optional)",
+      "Butter (for filling)",
+      "Powdered sugar (for filling)",
+      "Vanilla extract (for filling)",
+      "Heavy cream (for filling)"
+    ]
+  },
+  "miso_soup": {
+    "ingredients": [
+      "Miso paste",
+      "Tofu",
+      "Seaweed (such as wakame)",
+      "Dashi stock (or vegetable broth)",
+      "Green onions (chopped)",
+      "Soy sauce",
+      "Mirin (optional)",
+      "Salt"
+    ]
+  },
+  "mussels": {
+    "ingredients": [
+      "Mussels (fresh or frozen)",
+      "Garlic (minced)",
+      "Shallots (chopped)",
+      "White wine",
+      "Butter",
+      "Parsley (chopped)",
+      "Lemon juice",
+      "Salt and pepper"
+    ]
+  },
+  "nachos": {
+    "ingredients": [
+      "Tortilla chips",
+      "Cheddar cheese (shredded)",
+      "Monterey Jack cheese (shredded)",
+      "Ground beef or chicken (optional)",
+      "Sour cream",
+      "Guacamole",
+      "Salsa",
+      "Jalapeños (sliced)",
+      "Olives (optional)",
+      "Green onions (chopped)"
+    ]
+  },
+  "omelette": {
+    "ingredients": [
+      "Eggs",
+      "Butter or oil",
+      "Cheese (optional)",
+      "Vegetables (optional, such as mushrooms, spinach, or onions)",
+      "Salt and pepper"
+    ]
+  },
+  "onion_rings": {
+    "ingredients": [
+      "Onions (sliced into rings)",
+      "Flour",
+      "Cornstarch",
+      "Baking powder",
+      "Eggs",
+      "Milk",
+      "Salt",
+      "Pepper",
+      "Paprika (optional)",
+      "Oil (for frying)"
+    ]
+  },
+  "oysters": {
+    "ingredients": [
+      "Oysters (fresh, in-shell)",
+      "Lemon wedges",
+      "Hot sauce (optional)",
+      "Mignonette sauce (optional, made with vinegar, shallots, and pepper)"
+    ]
+  },
+  "pad_thai": {
+    "ingredients": [
+      "Rice noodles",
+      "Shrimp, chicken, or tofu",
+      "Eggs",
+      "Peanuts (chopped)",
+      "Green onions (chopped)",
+      "Lime",
+      "Bean sprouts",
+      "Garlic (minced)",
+      "Shallots (chopped)",
+      "Fish sauce",
+      "Tamarind paste",
+      "Sugar",
+      "Chili flakes",
+      "Peanut oil"
+    ]
+  },
+  "paella": {
+    "ingredients": [
+      "Saffron",
+      "Arborio or short-grain rice",
+      "Chicken",
+      "Seafood (such as shrimp, mussels, and clams)",
+      "Chorizo (optional)",
+      "Bell peppers (chopped)",
+      "Tomatoes (diced)",
+      "Green peas",
+      "Onions (chopped)",
+      "Garlic (minced)",
+      "Olive oil",
+      "Chicken or seafood broth",
+      "Paprika",
+      "Lemon wedges"
+    ]
+  },
+  "pancakes": {
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Baking powder",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla extract",
+      "Salt",
+      "Maple syrup (for serving)"
+    ]
+  },
+  "panna_cotta": {
+    "ingredients": [
+      "Heavy cream",
+      "Milk",
+      "Sugar",
+      "Vanilla extract",
+      "Gelatin",
+      "Water (for dissolving gelatin)",
+      "Berries or fruit (optional, for serving)"
+    ]
+  },
+  "peking_duck": {
+    "ingredients": [
+      "Duck",
+      "Hoisin sauce",
+      "Five-spice powder",
+      "Sugar",
+      "Salt",
+      "Soy sauce",
+      "Rice vinegar",
+      "Scallions",
+      "Cucumbers",
+      "Pancakes or thin tortillas"
+    ]
+  },
+  "pho": {
+    "ingredients": [
+      "Beef bones (for broth)",
+      "Star anise",
+      "Cinnamon sticks",
+      "Cloves",
+      "Ginger (charred)",
+      "Onions (charred)",
+      "Fish sauce",
+      "Sugar",
+      "Rice noodles",
+      "Beef (such as sirloin or brisket, thinly sliced)",
+      "Basil leaves",
+      "Bean sprouts",
+      "Lime wedges",
+      "Jalapeños (sliced)",
+      "Hoisin sauce"
+    ]
+  },
+  "pizza": {
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Olive oil",
+      "Basil leaves",
+      "Toppings (such as pepperoni, mushrooms, or olives)",
+      "Garlic (optional)",
+      "Parmesan cheese (optional)"
+    ]
+  },
+  "pork_chop": {
+    "ingredients": [
+      "Pork chops",
+      "Olive oil",
+      "Garlic (minced)",
+      "Rosemary or thyme",
+      "Salt",
+      "Pepper",
+      "Butter"
+    ]
+  },
+  "poutine": {
+    "ingredients": [
+      "French fries",
+      "Cheese curds",
+      "Beef gravy"
+    ]
+  },
+  "prime_rib": {
+    "ingredients": [
+      "Prime rib roast",
+      "Garlic (minced)",
+      "Rosemary",
+      "Thyme",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Butter"
+    ]
+  },
+  "pulled_pork_sandwich": {
+    "ingredients": [
+      "Pork shoulder",
+      "BBQ sauce",
+      "Buns",
+      "Coleslaw (optional)",
+      "Pickles (optional)"
+    ]
+  },
+  "ramen": {
+    "ingredients": [
+      "Ramen noodles",
+      "Pork or chicken broth",
+      "Soy sauce",
+      "Miso paste",
+      "Sesame oil",
+      "Garlic (minced)",
+      "Ginger (sliced)",
+      "Egg (soft-boiled)",
+      "Green onions (chopped)",
+      "Nori (seaweed)",
+      "Bamboo shoots",
+      "Spinach"
+    ]
+  },
+  "ravioli": {
+    "ingredients": [
+      "Ravioli pasta",
+      "Ricotta cheese",
+      "Spinach (optional)",
+      "Parmesan cheese",
+      "Egg",
+      "Garlic (minced)",
+      "Tomato sauce",
+      "Olive oil",
+      "Basil leaves"
+    ]
+  },
+  "red_velvet_cake": {
+    "ingredients": [
+      "All-purpose flour",  
+      "Sugar",
+      "Cocoa powder",
+      "Baking soda",
+      "Eggs",
+      "Buttermilk",
+      "Vegetable oil",
+      "Vinegar",
+      "Red food coloring",
+      "Vanilla extract",
+      "Butter",
+      "Cream cheese (for frosting)",
+      "Powdered sugar (for frosting)"
+    ]
+  },
+  "risotto": {
+    "ingredients": [
+      "Arborio rice",
+      "Chicken or vegetable broth",
+      "White wine",
+      "Parmesan cheese",
+      "Butter",
+      "Olive oil",
+      "Garlic (minced)",
+      "Onion (chopped)",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "samosa": {
+    "ingredients": [
+      "Phyllo or samosa wrappers",
+      "Potatoes (boiled and mashed)",
+      "Peas",
+      "Carrots (optional, chopped)",
+      "Onion (chopped)",
+      "Garlic (minced)",
+      "Ginger (minced)",
+      "Cumin",
+      "Coriander",
+      "Turmeric",
+      "Chili powder",
+      "Salt",
+      "Oil (for frying)"
+    ]
+  },
+  "sashimi": {
+    "ingredients": [
+      "Fresh fish (such as tuna, salmon, or yellowtail)",
+      "Soy sauce",
+      "Wasabi",
+      "Pickled ginger"
+    ]
+  },
+  "scallops": {
+    "ingredients": [
+      "Scallops",
+      "Butter",
+      "Olive oil",
+      "Garlic (minced)",
+      "Lemon juice",
+      "Parsley (chopped)",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "seaweed_salad": {
+    "ingredients": [
+      "Seaweed (wakame or mixed)",
+      "Rice vinegar",
+      "Soy sauce",
+      "Sesame oil",
+      "Sugar",
+      "Sesame seeds",
+      "Cucumber (optional, sliced)",
+      "Carrot (optional, julienned)"
+    ]
+  },
+  "shrimp_and_grits": {
+    "ingredients": [
+      "Shrimp (peeled and deveined)",
+      "Grits",
+      "Butter",
+      "Cream",
+      "Cheddar cheese",
+      "Garlic (minced)",
+      "Green onions (chopped)",
+      "Bacon (optional)",
+      "Paprika",
+      "Cayenne pepper",
+      "Lemon juice",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "spaghetti_bolognese": {
+    "ingredients": [
+      "Spaghetti pasta",
+      "Ground beef",
+      "Onion (chopped)",
+      "Garlic (minced)",
+      "Carrot (chopped)",
+      "Celery (chopped)",
+      "Tomato paste",
+      "Canned tomatoes",
+      "Red wine",
+      "Olive oil",
+      "Bay leaves",
+      "Salt",
+      "Pepper",
+      "Parmesan cheese (optional)"
+    ]
+  },
+  "spaghetti_carbonara": {
+    "ingredients": [
+      "Spaghetti pasta",
+      "Eggs",
+      "Pancetta or guanciale",
+      "Parmesan cheese",
+      "Pecorino Romano cheese",
+      "Garlic (minced)",
+      "Olive oil",
+      "Black pepper"
+    ]
+  },
+  "spring_rolls": {
+    "ingredients": [
+      "Rice paper wrappers",
+      "Shrimp or chicken (cooked)",
+      "Rice vermicelli noodles",
+      "Lettuce leaves",
+      "Carrots (julienned)",
+      "Cucumber (julienned)",
+      "Mint leaves",
+      "Basil leaves",
+      "Coriander leaves",
+      "Peanut sauce or hoisin sauce (for dipping)"
+    ]
+  },
+  "steak": {
+    "ingredients": [
+      "Steak (such as ribeye, sirloin, or filet mignon)",
+      "Olive oil",
+      "Butter",
+      "Garlic (crushed)",
+      "Rosemary or thyme",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  "strawberry_shortcake": {
+    "ingredients": [
+      "Strawberries (sliced)",
+      "Sugar",
+      "Sponge cake or shortcake biscuits",
+      "Heavy cream",
+      "Vanilla extract",
+      "Powdered sugar"
+    ]
+  },
+  "sushi": {
+    "ingredients": [
+      "Sushi rice",
+      "Nori (seaweed sheets)",
+      "Fresh fish (such as tuna, salmon, or eel)",
+      "Cucumber (optional)",
+      "Avocado (optional)",
+      "Soy sauce",
+      "Wasabi",
+      "Pickled ginger"
+    ]
+  },
+  "tacos": {
+    "ingredients": [
+      "Taco shells or tortillas",
+      "Ground beef, chicken, or fish",
+      "Lettuce (shredded)",
+      "Tomatoes (diced)",
+      "Cheese (shredded)",
+      "Sour cream",
+      "Guacamole",
+      "Salsa",
+      "Cilantro (optional)",
+      "Onions (optional)"
+    ]
+  },
+  "takoyaki": {
+    "ingredients": [
+      "Takoyaki batter (flour, eggs, dashi, soy sauce)",
+      "Octopus (cut into small pieces)",
+      "Green onions (chopped)",
+      "Pickled ginger",
+      "Tempura scraps (tenkasu)",
+      "Katsuobushi (bonito flakes)",
+      "Aonori (seaweed flakes)",
+      "Takoyaki sauce"
+    ]
+  },
+  "tiramisu": {
+    "ingredients": [
+      "Ladyfingers",
+      "Mascarpone cheese",
+      "Heavy cream",
+      "Eggs",
+      "Sugar",
+      "Espresso or strong coffee",
+      "Coffee liqueur (optional)",
+      "Cocoa powder",
+      "Dark chocolate (optional)"
+    ]
+  },
+  "tuna_tartare": {
+    "ingredients": [
+      "Fresh tuna (diced)",
+      "Soy sauce",
+      "Sesame oil",
+      "Lemon juice",
+      "Avocado (diced)",
+      "Cucumber (diced)",
+      "Green onions (chopped)",
+      "Sesame seeds",
+      "Wasabi (optional)"
+    ]
+  },
+  "waffles": {
+    "ingredients": [
+      "Waffle batter (flour, sugar, baking powder, eggs, milk, butter)",
+      "Vanilla extract",
+      "Maple syrup",
+      "Butter (for serving)",
+      "Berries or fruits (optional)",
+      "Whipped cream (optional)"
+    ]
+  }
+}
+  
